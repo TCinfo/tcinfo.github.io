@@ -1,15 +1,15 @@
 # Site settings
-title: Stone's World
+title: 小川川
 header-img: "img/mountain.jpg"
 tagline: "喵？"  
 description: "这些经历与感悟 定义了我的人生 现在分享给你"  
 baseurl: ""
-url: "http://stoneshi.net"  
+url: "http://tianchuan.info"  
 
 # About/contact
 owner: 
-  name: "StoneShi"
-  email: shinansn@gmail.com
+  name: "TC"
+  email: 1052039472@qq.com
   bio: "想成为一个有趣的人"
 
 # Data
